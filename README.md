@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Juan Pablo Rodriguez !!
+- 👀 I’m interested in Programming, Learning and Working. 
+- 🌱 I’m currently learning C#/.NET in college, and looking forward to learn more SQL and Power BI
+- 💞️ I’m looking for joining a Software Development company in which i can grow both professionally and personally.
+- 📫 You can read more about me at "https://www.linkedin.com/in/juanpablorodriguez1998/"
+- Have a Nice Day! 
